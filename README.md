@@ -4,7 +4,7 @@
   <img src="/assets/logo_bgc.png" alt="SceneV Preview" width="50%">
 </p>
 
-<div align="center" style="font-size: 24px; font-weight: bold;">
+<div align="center" style="font-size: 24px; font-weight: 600;">
 简单高效、精美规范、交互自然的低代码组态数据可视化
 </div>
 
@@ -69,6 +69,7 @@ SceneV（Scene Visual）是一个强大的低代码数据可视化开发平台�
 <p align="center">
   <img src="/assets/preview_6.png" alt="SceneV Preview">
 </p>
+
 ### 核心功能
 
 - **开箱即用**：丰富的组件库和模板，快速搭建专业可视化界面。
@@ -148,7 +149,5 @@ SceneV（Scene Visual）是一个强大的低代码数据可视化开发平台�
 
 在这里，你可以与其他用户实时交流，获得帮助，分享你的项目，并参与到最新的功能讨论中。
 
-- **QQ 群号**: `[1023284024]`
-- **群二维码**:
 
-  <img src="/assets/qq_group_qr.jpg" alt="QQ Group QR Code" width="250">
+  <img src="/assets/qq_group_qr.jpg" alt="QQ Group QR Code" width="300">
