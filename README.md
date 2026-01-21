@@ -4,8 +4,8 @@
   <img src="/assets/logo_bgc.png" alt="SceneV Preview" width="50%">
 </p>
 
-<div align="center">
-**简单高效、精美规范、交互自然的低代码组态数据可视化**
+<div align="center" style="font-size: 24px; font-weight: bold;">
+简单高效、精美规范、交互自然的低代码组态数据可视化
 </div>
 
 
@@ -19,22 +19,10 @@ SceneV（Scene Visual）是一个强大的低代码数据可视化开发平台�
 ---
 
 #### 项目效果
+<p align="center">
+  <img src="/assets/preview.gif" alt="SceneV Preview">
+</p>
 
-<div style="margin: 20px 0; border-radius: 8px; overflow: hidden">
-  <video autoplay loop muted playsinline>
-    <source src="/assets/video/Video_1.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频标签。
-  </video>
-</div>
-
-#### 物联网ThingsBoard数据对接
-
-<div style="margin: 20px 0; border-radius: 8px;">
-  <video autoplay loop muted playsinline>
-    <source src="/assets/video/Video_2.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频标签。
-  </video>
-</div>
 
 #### 项目截图
 
