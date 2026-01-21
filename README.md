@@ -51,9 +51,23 @@ SceneV（Scene Visual）是一个强大的低代码数据可视化开发平台�
 </p>
 
 大屏背景
-
 <p align="center">
   <img src="/assets/preview_5.png" alt="SceneV Preview">
+</p>
+
+丰富的组件库
+<p align="center">
+  <img src="/assets/preview_8.png" alt="SceneV Preview">
+</p>
+
+快速布局
+<p align="center">
+  <img src="/assets/preview_7.png" alt="SceneV Preview">
+</p>
+
+视频组件
+<p align="center">
+  <img src="/assets/preview_6.png" alt="SceneV Preview">
 </p>
 ### 核心功能
 
