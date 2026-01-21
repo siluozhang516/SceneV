@@ -19,7 +19,7 @@
 
 #### 📖 介绍
 
-**SceneV（Scene Visual）** 是一个强大的低代码数据可视化开发平台，专为工业组态和数据可视化大屏设计而打造。它让用户能够通过直观的拖拽操作，零代码或低代码方式快速构建专业级的可视化应用。
+**SceneV（Scene Visual）** 是一个强大的低代码数据组态可视化开发平台，专为工业组态和数据可视化大屏设计而打造。它让用户能够通过直观的拖拽操作，零代码或低代码方式快速构建专业级的可视化应用。
 
 - **📚 文档地址:** [https://api.meta2dthingsboard.cn](https://api.meta2dthingsboard.cn)
 - **🚀 预览地址:** [https://meta2dthingsboard.cn](https://meta2dthingsboard.cn)
